@@ -1,1 +1,1673 @@
+Tele Curacao (AN)::Tele Curacao::AN
+Canal 13 (AR)::Canal 13::AR
+Canal 9 (AR)::Canal 9::AR
+Warner Channel (AR)::Warner Channel::AR
+ATV::ATV::AT
+ORF 1::ORF 1::AT
+ORF 2::ORF 2::AT
+111 Greats (AU)::111 Greats::AU
+13TH STREET (AU)::13TH STREET::AU
+31 DIGITAL (AU)::31 DIGITAL::AU
+44 Adelaide (AU)::44 Adelaide::AU
+7mate (AU)::7mate::AU
+7TWO (AU)::7TWO::AU
+A&E (AU)::A&E::AU
+a-pac (AU)::a-pac::AU
+ABC1::ABC::AU
+ABC (Canberra) (AU)::ABC (Canberra)::AU
+ABC4Kids::ABC 4 kids::AU
+ABC News 24::ABC NEWS 24::AU
+ABC2::ABC2::AU
+ABC3::ABC3::AU
+ABD (AU)::ABD::AU
+ABN (AU)::ABN::AU
+ABQ (AU)::ABQ::AU
+ABS (AU)::ABS::AU
+ABT (AU)::ABT::AU
+ABV (AU)::ABV::AU
+ABW (AU)::ABW::AU
+ACTION MOVIES (AU)::ACTION MOVIES::AU
+ADS (AU)::ADS::AU
+AMV (AU)::AMV::AU
+Animal Planet (AU)::Animal Planet::AU
+Arena::Arena::AU
+aspire TV (AU)::aspire TV::AU
+ATN (AU)::ATN::AU
+ATV (AU)::ATV::AU
+aurora (AU)::aurora::AU
+Australian Christian Channel::australian christian channel::AU
+BBC Knowledge (AU)::BBC Knowledge::AU
+BBC UKTV (AU)::BBC UKTV::AU
+BCV (AU)::BCV::AU
+bio. (AU)::bio.::AU
+BKN (AU)::BKN::AU
+Boomerang (AU)::Boomerang::AU
+BTQ (AU)::BTQ::AU
+C31::C31 Melbourne::AU
+CARTOON NETWORK (AU)::CARTOON NETWORK::AU
+CBN (AU)::CBN::AU
+CMC (AU)::CMC::AU
+CNBC (AU)::CNBC::AU
+comedy channel (AU)::comedy channel::AU
+Comedy MOVIES (AU)::Comedy MOVIES::AU
+crime & investigation network (AU)::crime & investigation network::AU
+CTC (AU)::CTC::AU
+Discovery CHANNEL (AU)::Discovery CHANNEL::AU
+Discovery home & health (AU)::Discovery home & health::AU
+Discovery Science (AU)::Discovery Science::AU
+Discovery turbo MAX (AU)::Discovery turbo MAX::AU
+DiSNEY CHANNEL (AU)::DiSNEY CHANNEL::AU
+DiSNEY Junior (AU)::DiSNEY Junior::AU
+DTD (AU)::DTD::AU
+E! (AU)::E!::AU
+Eleven (AU)::Eleven::AU
+ESPN (AU)::ESPN::AU
+ESPN2 (AU)::ESPN2::AU
+EUROSPORT (AU)::EUROSPORT::AU
+eXPO CHANNEL (AU)::eXPO CHANNEL::AU
+extra (AU)::extra::AU
+family MOVIES (AU)::family MOVIES::AU
+FMC (AU)::FMC::AU
+FOX CLASSICS (AU)::FOX CLASSICS::AU
+FOX FOOTY (AU)::FOX FOOTY::AU
+FOX SPORTS::FOX SPORTS 1::AU
+FOX SPORTS 2 (AU)::FOX SPORTS 2::AU
+FOX SPORTS 3 (AU)::FOX SPORTS 3::AU
+FOX SPORTS NEWS (AU)::FOX SPORTS NEWS::AU
+Fox8::FOX8::AU
+FUEL TV (AU)::FUEL TV::AU
+FX (AU)::FX::AU
+Gem (AU)::Gem::AU
+Globo International (AU)::Globo International::AU
+GLV (AU)::GLV::AU
+GO! (AU)::GO!::AU
+GOLD (AU)::GOLD::AU
+GOLD2 (AU)::GOLD2::AU
+GTS (AU)::GTS::AU
+GTV (AU)::GTV::AU
+GWN7 (AU)::GWN7::AU
+HISTORY (AU)::HISTORY::AU
+HSV (AU)::HSV::AU
+ICTV (AU)::ICTV::AU
+Imparja (AU)::Imparja::AU
+ishop tv (AU)::ishop tv::AU
+LifeStyle::LifeStyle::AU
+LifeStyle FOOD::LifeStyle Food::AU
+LifeStyle HOME::LifeStyle Home::AU
+LifeStyle You. (AU)::LifeStyle You.::AU
+LRS (AU)::LRS::AU
+M10 TV (AU)::M10 TV::AU
+MAD World (AU)::MAD World::AU
+MAIN EVENT (AU)::MAIN EVENT::AU
+MASTERPIECE MOVIES (AU)::MASTERPIECE MOVIES::AU
+Max (AU)::Max::AU
+MDV (AU)::MDV::AU
+MGS (AU)::MGS::AU
+Movie Extra (AU)::Movie Extra::AU
+MTN (AU)::MTN::AU
+MTV (AU)::MTV::AU
+MTV CLASSIC (AU)::MTV CLASSIC::AU
+MTV DANCE (AU)::MTV DANCE::AU
+MTV MUSIC (AU)::MTV MUSIC::AU
+NAT GEO PEOPLE (AU)::NAT GEO PEOPLE::AU
+NAT GEO WILD (AU)::NAT GEO WILD::AU
+NATIONAL GEOGRAPHIC CHANNEL (AU)::NATIONAL GEOGRAPHIC CHANNEL::AU
+NBN (AU)::NBN::AU
+NEN (AU)::NEN::AU
+NEW (AU)::NEW::AU
+nick jr. (AU)::nick jr.::AU
+nickelodeon (AU)::nickelodeon::AU
+Nine Network::Nine Network::AU
+NITV (AU)::NITV::AU
+NRN (AU)::NRN::AU
+NTD (AU)::NTD::AU
+NWS (AU)::NWS::AU
+one (AU)::one::AU
+ovationchannel.com.au::ovationchannel.com.au::AU
+PREMIERE MOVIES (AU)::PREMIERE MOVIES::AU
+PRiME7 (AU)::PRiME7::AU
+PTV (AU)::PTV::AU
+QQQ (AU)::QQQ::AU
+QTQ (AU)::QTQ::AU
+RHC (AU)::RHC::AU
+Romance MOVIES (AU)::Romance MOVIES::AU
+RTQ (AU)::RTQ::AU
+RTS (AU)::RTS::AU
+SAS (AU)::SAS::AU
+SBS::SBS ONE::AU
+SBS2 (AU)::SBS2::AU
+SES (AU)::SES::AU
+SETANTA SPORTS (AU)::SETANTA SPORTS::AU
+Seven Network::Seven::AU
+showcase (AU)::showcase::AU
+Skuff TV (AU)::Skuff TV::AU
+SKY Business TV (AU)::SKY Business TV::AU
+SKY International (AU)::SKY International::AU
+sky NEWS (AU)::sky NEWS::AU
+sky NEWS BUSINESS (AU)::sky NEWS BUSINESS::AU
+sky NEWS WEATHER (AU)::sky NEWS WEATHER::AU
+SKY Racing (AU)::SKY Racing::AU
+SKY Ringside (AU)::SKY Ringside::AU
+Smooth (AU)::Smooth::AU
+SoHo::SoHo::AU
+Southern Cross TELEVISION (AU)::Southern Cross TELEVISION::AU
+Southern Cross Ten (AU)::Southern Cross Ten::AU
+SPEED (AU)::SPEED::AU
+STQ (AU)::STQ::AU
+STUDIO (AU)::STUDIO::AU
+STV (AU)::STV::AU
+STW (AU)::STW::AU
+Style (AU)::Style::AU
+Syfy (AU)::Syfy::AU
+Syndicated (AU)::Syndicated::AU
+TCN (AU)::TCN::AU
+TDT (AU)::TDT::AU
+Network Ten::ten::AU
+THRILLER MOVIES (AU)::THRILLER MOVIES::AU
+TLC (AU)::TLC::AU
+TND (AU)::TND::AU
+TNQ (AU)::TNQ::AU
+TURNER CLASSIC MOVIES (AU)::TURNER CLASSIC MOVIES::AU
+TV HiTS (AU)::TV HiTS::AU
+TV4ME (AU)::TV4ME::AU
+TVN (AU)::TVN::AU
+TVQ (AU)::TVQ::AU
+TVS::tvs::AU
+TVSN (AU)::TVSN::AU
+TVT (AU)::TVT::AU
+TVW (AU)::TVW::AU
+UNIVERSAL CHANNEL (AU)::UNIVERSAL CHANNEL::AU
+Unknown (AU)::Unknown::AU
+VK3RTV (AU)::VK3RTV::AU
+VTV (AU)::VTV::AU
+West Digital Television (AU)::West Digital Television::AU
+westlink (AU)::westlink::AU
+WIN (AU)::WIN::AU
+WIN Television (AU)::WIN Television::AU
+WORLD MOVIES (AU)::WORLD MOVIES::AU
+WOW (AU)::WOW::AU
+WTV (AU)::WTV::AU
+[v] (AU)::[v]::AU
+[v] HITS (AU)::[v] HITS::AU
+2BE::2BE::BE
+één::één::BE
+Ketnet (BE)::Ketnet::BE
+RTL TVI::RTL-TVI::BE
+VijfTV::VijfTV::BE
+VT4::VT4::BE
+VTM::VTM::BE
+bTV::bTV::BG
+BNT1::Bulgarian National Television::BG
+Rede Globo::Rede Globo::BR
+RedeTV! (BR)::RedeTV!::BR
+SBT::SBT::BR
+Sony Entertainment Television (BR)::Sony Entertainment Television::BR
+Fox (BZ)::Fox::BZ
+abc spark (CA)::abc spark::CA
+Action::ACTION::CA
+amc (CA)::amc::CA
+ANIMAL PLANET (CA)::ANIMAL PLANET::CA
+aptn (CA)::aptn::CA
+ATN CRICKET PLUS (CA)::ATN CRICKET PLUS::CA
+ATN SPORTS (CA)::ATN SPORTS::CA
+aux (CA)::aux::CA
+BBC Canada::BBC CANADA::CA
+BBC Kids::BBC Kids::CA
+beats per minute television (CA)::beats per minute television::CA
+BIOGRAPHY CHANNEL (CA)::BIOGRAPHY CHANNEL::CA
+biTe (CA)::biTe::CA
+Book TELEVISION (CA)::Book TELEVISION::CA
+Bravo!::bravo::CA
+Business News Network (CA)::Business News Network::CA
+Cable Public Affairs Channel (CA)::Cable Public Affairs Channel::CA
+CablePulse24 (CA)::CablePulse24::CA
+Cartoon Network (CA)::Cartoon Network::CA
+CBC::CBC::CA
+CBCnews network (CA)::CBCnews network::CA
+CHCH (CA)::CHCH::CA
+City::CityTV::CA
+CMT (CA)::CMT::CA
+comedy::Comedy Network::CA
+COSMOPOLITANTV (CA)::COSMOPOLITANTV::CA
+Cottage Life (CA)::Cottage Life::CA
+CTV::CTV::CA
+CTV News Channel (CA)::CTV News Channel::CA
+CTV two (CA)::CTV two::CA
+Discovery Channel (CA)::Discovery Channel::CA
+DISCOVERY SCIENCE (CA)::DISCOVERY SCIENCE::CA
+Discovery World (CA)::Discovery World::CA
+Disney Junior (CA)::Disney Junior::CA
+Disney XD (CA)::Disney XD::CA
+diy network (CA)::diy network::CA
+documentary (CA)::documentary::CA
+DTOUR (CA)::DTOUR::CA
+DUSK (CA)::DUSK::CA
+E! (CA)::E!::CA
+EuroWorld Sport (CA)::EuroWorld Sport::CA
+Family::family::CA
+FIGHT NETWORK (CA)::FIGHT NETWORK::CA
+Food Network Canada::Food Network::CA
+Fox Soccer Channel (CA)::Fox Soccer Channel::CA
+FX CANADA::FX CANADA::CA
+fyi (CA)::fyi,::CA
+G4 Canada::G4::CA
+game tv (CA)::game tv::CA
+Global::Global::CA
+gusto tv (CA)::gusto tv::CA
+H2 (CA)::H2::CA
+HBO CANADA::HBO CANADA::CA
+HGTV Canada::HGTV::CA
+HIFI::HIFI::CA
+History Television::History::CA
+iCHANNEL (CA)::iCHANNEL::CA
+IFC (CA)::IFC::CA
+Investigation Discovery (CA)::Investigation Discovery::CA
+Life Network (CA)::Life Network::CA
+Lifetime (CA)::Lifetime::CA
+M3 (CA)::M3::CA
+Movie Central::Movie Central::CA
+The Movie Network::Movie Network::CA
+mp (CA)::mp::CA
+MTV (CA)::MTV::CA
+MTV2 (CA)::MTV2::CA
+MuchMusic (CA)::MuchMusic::CA
+mystery TV (CA)::mystery TV::CA
+NATIONAL GEOGRAPHIC CHANNEL (CA)::NATIONAL GEOGRAPHIC CHANNEL::CA
+nickelodeon (CA)::nickelodeon::CA
+Northern Television (CA)::Northern Television::CA
+OLN::OLN::CA
+OMNI TELEVISION (CA)::OMNI TELEVISION::CA
+OUTtv (CA)::OUTtv::CA
+OWN (CA)::OWN::CA
+Radio Canada::Radio-Canada::CA
+ROGERS TV (CA)::ROGERS TV::CA
+Séries+::Série+::CA
+SHAW TV (CA)::SHAW TV::CA
+Shopping Channel (CA)::Shopping Channel::CA
+Showcase::SHOWCASE::CA
+Slice::Slice::CA
+Space::SPACE::CA
+Sports Network (CA)::Sports Network::CA
+Sports Network 2 (CA)::Sports Network 2::CA
+Sportsnet 360 (CA)::Sportsnet 360::CA
+Sportsnet Ontario (CA)::Sportsnet Ontario::CA
+SPORTSNET WORLD (CA)::SPORTSNET WORLD::CA
+SUN NEWS NETWORK (CA)::SUN NEWS NETWORK::CA
+Super Channel::Super Channel::CA
+Super Channel 2 (CA)::Super Channel 2::CA
+Super Channel 3 (CA)::Super Channel 3::CA
+Super Channel 4 (CA)::Super Channel 4::CA
+SUPER ÉCRAN (CA)::SUPER ÉCRAN::CA
+Syndication (CA)::Syndication::CA
+Télé (CA)::Télé::CA
+Télé-Québec::Télé-Québec::CA
+Teletoon::TeleToon::CA
+Travel + Escape (CA)::Travel + Escape::CA
+Treehouse TV::Treehouse::CA
+TVA::TVA::CA
+TVO::TVOntario::CA
+Unknown (CA)::Unknown::CA
+V::V::CA
+VISION ZOOMER TELEVISION (CA)::VISION ZOOMER TELEVISION::CA
+Vrak.TV::VRAK.TV::CA
+W Network::W::CA
+W Movies (CA)::W Movies::CA
+WB (CA)::WB::CA
+Weather Network (CA)::Weather Network::CA
+YTV::YTV::CA
+ZDTV (CA)::ZDTV::CA
+TSI1 (CH)::TSI1::CH
+TSR2 (CH)::TSR2::CH
+Canal 13::Canal 13::CL
+Sony Entertainment Television (CL)::Sony Entertainment Television::CL
+Fox (CR)::Fox::CR
+ČST (CZ)::ČST::CZ
+ČT1 (CZ)::ČT1::CZ
+ČT2 (CZ)::ČT2::CZ
+nova (CZ)::nova::CZ
+Prima Family (CZ)::Prima Family::CZ
+3sat::3sat::DE
+9Live (DE)::9Live::DE
+Animax (DE)::Animax::DE
+arte (DE)::arte::DE
+ATV (DE)::ATV::DE
+Boomerang (DE)::Boomerang::DE
+BR::BR::DE
+Comedy Central (DE)::Comedy Central::DE
+Das Erste::Das Erste::DE
+DDR1::DDR1::DE
+Deutsche Telekom (DE)::Deutsche Telekom::DE
+Deutsche Welle TV::Deutsche Welle::DE
+DMAX::DMAX::DE
+EinsExtra (DE)::EinsExtra::DE
+Einsfestival::EinsFestival::DE
+EinsPlus::EinsPlus::DE
+Fox Channel::Fox::DE
+HR (DE)::HR::DE
+Kabel1 (DE)::Kabel1::DE
+KIKA::Ki.Ka::DE
+MDR::MDR::DE
+MTV Central (DE)::MTV Central::DE
+NDR::NDR::DE
+Nick (DE)::Nick::DE
+Nickelodeon (DE)::Nickelodeon::DE
+ORF1 (DE)::ORF1::DE
+Phoenix::Phoenix::DE
+Premiere (DE)::Premiere::DE
+ProSieben::Pro7::DE
+Radio Bremen::Radio Bremen::DE
+RBB::rbb::DE
+RTL Television::RTL::DE
+RTL 2 (DE)::RTL 2::DE
+RTL Nitro (DE)::RTL Nitro::DE
+SAT.1::Sat. 1::DE
+Sat. 1 Comedy (DE)::Sat. 1 Comedy::DE
+Sixx (DE)::Sixx::DE
+Sky Atlantic HD (DE)::Sky Atlantic HD::DE
+Spiegel Geschichte (DE)::Spiegel Geschichte::DE
+SR::SR::DE
+Super RTL (DE)::Super RTL::DE
+SWR::SWR::DE
+SyFy Universal (DE)::SyFy Universal::DE
+tagesschau24 (DE)::tagesschau24::DE
+TBS (DE)::TBS::DE
+TNT Serie::TNT Serie::DE
+TV Tokjo (DE)::TV Tokjo::DE
+Unknown (DE)::Unknown::DE
+VIVA (DE)::VIVA::DE
+VOX::Vox::DE
+WDR::WDR::DE
+ZDF::ZDF::DE
+ZDF.Kultur::ZDFkultur::DE
+ZDFneo::ZDFneo::DE
+Kanal 4::Kanal 4::DK
+TV 2::TV2::DK
+TV 3::TV3::DK
+TV3+::TV3+::DK
+Antena 3::Antena 3::ES
+Barcelona TV (ES)::Barcelona TV::ES
+Canal+ (ES)::Canal+::ES
+Ricavision channel 7 (ES)::Ricavision channel 7::ES
+Telecinco 5 (ES)::Telecinco 5::ES
+Televisió de Catalunya (ES)::Televisió de Catalunya::ES
+TVE::TVE::ES
+TVE2 (ES)::TVE2::ES
+EBU (EU)::EBU::EU
+MTV (FI)::MTV::FI
+MTV3::MTV3::FI
+Nelonen::Nelonen::FI
+Sub::Sub::FI
+YLE Fem (FI)::YLE Fem::FI
+YLE::YLE TV1::FI
+Canal J::Canal J::FR
+Canal+::Canal+::FR
+France 2::France 2::FR
+France 3::France 3::FR
+France 5::France 5::FR
+M6::M6::FR
+ORTF::ORTF::FR
+Paris Première (FR)::Paris Première::FR
+Télé Monte Carlo (FR)::Télé Monte Carlo::FR
+TF1::TF1::FR
+TF6 (FR)::TF6::FR
+TPS Star (FR)::TPS Star::FR
+Unknown (FR)::Unknown::FR
+Star Channel (GR)::Star Channel::GR
+Fox (GT)::Fox::GT
+AXN (HK)::AXN::HK
+Star World::Star World::HK
+TVB Jade (HK)::TVB Jade::HK
+TVB Pearl (HK)::TVB Pearl::HK
+TVB Xing He (HK)::TVB Xing He::HK
+Fox (HN)::Fox::HN
+HRT2 (HR)::HRT2::HR
+Nova TV (HR)::Nova TV::HR
+RTL Klub::RTL Klub::HU
+Jak-TV (ID)::Jak-TV::ID
+3e (IE)::3e::IE
+CORK COMMUNITY TV (IE)::CORK COMMUNITY TV::IE
+CÚLA4 (IE)::CÚLA4::IE
+Oireachtas TV (IE)::Oireachtas TV::IE
+P5tv (IE)::P5tv::IE
+rté jr (IE)::rté jr::IE
+RTÉ NEWS NOW (IE)::RTÉ NEWS NOW::IE
+RTÉ One::RTÉ ONE::IE
+RTÉ Two::RTÉ TWO::IE
+Setanta Ireland::SETANTA IRELAND::IE
+SETANTA SPORTS 1 (IE)::SETANTA SPORTS 1::IE
+TG4::TG4::IE
+TV3 (IE)::TV3::IE
+Unknown (IE)::Unknown::IE
+Channel 10 (IL)::Channel 10::IL
+yesSTARS (IL)::yesSTARS::IL
+Sahara ONE::Sahara One::IN
+Sony Entertainment Television (IN)::Sony Entertainment Television::IN
+Star World (IN)::Star World::IN
+Ríkisútvarpið (IS)::Ríkisútvarpið::IS
+Sjónvarpið (IS)::Sjónvarpið::IS
+Skjár einn (IS)::Skjár einn::IS
+Stöð 2 (IS)::Stöð 2::IS
+Unknown (IS)::Unknown::IS
+Canale 5::Canale 5::IT
+Italia 1::Italia 1::IT
+Rai 2::RaiDue::IT
+Rai 1::RaiUno::IT
+Rete 4::Rete 4::IT
+Unknown (IT)::Unknown::IT
+Animax::Animax::JP
+AT-X::AT-X::JP
+AXN (JP)::AXN::JP
+Bandai Channel (JP)::Bandai Channel::JP
+BS Fuji (JP)::BS Fuji::JP
+BS-i (JP)::BS-i::JP
+Chiba TV (JP)::Chiba TV::JP
+Chukyo TV (JP)::Chukyo TV::JP
+Family Gekijou (JP)::Family Gekijou::JP
+Fuji TV::Fuji TV::JP
+Kids Station::KIDS STATION::JP
+KTV (JP)::KTV::JP
+MBS::MBS::JP
+Nagoya Broadcasting Network (JP)::Nagoya Broadcasting Network::JP
+NHK::NHK::JP
+NTV::NTV::JP
+SkyPerfecTV (JP)::SkyPerfecTV::JP
+SUN-TV (JP)::SUN-TV::JP
+Syndicated (JP)::Syndicated::JP
+TBS (JP)::TBS::JP
+Tokai TV (JP)::Tokai TV::JP
+Tokyo MX::Tokyo MX::JP
+TV Aichi::TV Aichi::JP
+TV Asahi::TV Asahi::JP
+TV Hokkaido (JP)::TV Hokkaido::JP
+TV Kanagawa (JP)::TV Kanagawa::JP
+TV Osaka (JP)::TV Osaka::JP
+TV Saitama (JP)::TV Saitama::JP
+TV Setouchi (JP)::TV Setouchi::JP
+TV Tokyo::TV Tokyo::JP
+Unknown (JP)::Unknown::JP
+WOWOW::WOWOW::JP
+Yomiuri TV (JP)::Yomiuri TV::JP
+Kenya Television Network (KE)::Kenya Television Network::KE
+KBS TV1::KBS1::KR
+KBS TV2::KBS2::KR
+MBC::MBC::KR
+SBS (KR)::SBS::KR
+Unknown (MK)::Unknown::MK
+Star World (MV)::Star World::MV
+Gamavision (MX)::Gamavision::MX
+Mundo Nick (MX)::Mundo Nick::MX
+Telemundo (MX)::Telemundo::MX
+Televisa::Televisa::MX
+TV Azteca::TV Azteca::MX
+Unknown (MX)::Unknown::MX
+8TV (MY)::8TV::MY
+RTM2 (MY)::RTM2::MY
+Wah Lai Toi (MY)::Wah Lai Toi::MY
+Fox (NI)::Fox::NI
+13th Street (NL)::13th Street::NL
+AVRO::AVRO::NL
+BNN::BNN::NL
+BOS (NL)::BOS::NL
+Comedy Central (NL)::Comedy Central::NL
+EO::EO::NL
+Fox 8 (NL)::Fox 8::NL
+Fox Life (NL)::Fox Life::NL
+Het Gesprek (NL)::Het Gesprek::NL
+HUMAN (NL)::HUMAN::NL
+IKON::IKON::NL
+Jetix (NL)::Jetix::NL
+KRO::KRO::NL
+L1 (NL)::L1::NL
+LLink (NL)::LLink::NL
+MAX (NL)::MAX::NL
+MTV Nederland::MTV Nederland::NL
+National Geographic Nederland-België::National Geographic Nederland-België::NL
+NCRV::NCRV::NL
+NET 5::Net 5::NL
+Nickelodeon (NL)::Nickelodeon::NL
+NOS::NOS::NL
+NPS (NL)::NPS::NL
+NTR::NTR::NL
+Omroep Brabant::Omroep Brabant::NL
+Omrop Fryslân (NL)::Omrop Fryslân::NL
+PowNed::POWNED::NL
+RKK (NL)::RKK::NL
+RTL 4::RTL 4::NL
+RTL 5::RTL 5::NL
+RTL 7::RTL 7::NL
+RTL 8::RTL 8::NL
+RTV Noord (NL)::RTV Noord::NL
+RTV Noord-Holland (NL)::RTV Noord-Holland::NL
+RTV Oost (NL)::RTV Oost::NL
+RTV Rijnmond (NL)::RTV Rijnmond::NL
+RTV Utrecht (NL)::RTV Utrecht::NL
+RTV West (NL)::RTV West::NL
+RVU::RVU::NL
+SBS 6::SBS 6::NL
+Sci-Fi (NL)::Sci-Fi::NL
+Teleac (NL)::Teleac::NL
+Tien (NL)::Tien::NL
+TMF::TMF::NL
+TROS::TROS::NL
+Unknown (NL)::Unknown::NL
+VARA::VARA::NL
+Veronica::Veronica::NL
+VPRO::VPRO::NL
+Wakker Nederland (NL)::Wakker Nederland::NL
+Yorin (NL)::Yorin::NL
+NRK1::NRK1::NO
+TV2 (NO)::TV2::NO
+TV 2 Zebra::TV2 Zebra::NO
+TVNorge::TVNorge::NO
+2 (NZ)::2::NZ
+FOUR (NZ)::FOUR::NZ
+ONE (NZ)::ONE::NZ
+TV3 (NZ)::TV3::NZ
+Unknown (NZ)::Unknown::NZ
+RPC Canal 4 (PA)::RPC Canal 4::PA
+Sony Entertainment Television (PE)::Sony Entertainment Television::PE
+ABS-CBN Broadcasting Company::ABS-CBN::PH
+Associated Broadcasting Company (PH)::Associated Broadcasting Company::PH
+GMA::GMA Network::PH
+IBC (PH)::IBC::PH
+Living Asia Channel (PH)::Living Asia Channel::PH
+Q (PH)::Q::PH
+RPN (PH)::RPN::PH
+Studio 23::Studio 23::PH
+Orbit Network (PK)::Orbit Network::PK
+Pakistan Television Corporation (PK)::Pakistan Television Corporation::PK
+AXN (PL)::AXN::PL
+MTV Poland::MTV Poland::PL
+Polsat::Polsat::PL
+TVN::TVN::PL
+TVP::TVP::PL
+TVP1::TVP 1::PL
+TVP2::TVP 2::PL
+VIVA (PL)::VIVA::PL
+Mundo Nick (PR)::Mundo Nick::PR
+FOX (PT)::FOX::PT
+RTP1::RTP 1::PT
+RTP2 (PT)::RTP2::PT
+SIC::SIC::PT
+TVI::TVI::PT
+Unknown (PT)::Unknown::PT
+Acasă (RO)::Acasă::RO
+2×2::2x2::RU
+CTC (RU)::CTC::RU
+ECC TV (RU)::ECC TV::RU
+M1 (RU)::M1::RU
+Unknown (RU)::Unknown::RU
+Дождь::Дождь::RU
+Первый канал::Первый канал::RU
+Россия 1::Россия-1::RU
+ТВ3::ТВ3::RU
+ТВ6 (RU)::ТВ6::RU
+ТНТ::ТНТ::RU
+Kanal 1 (SE)::Kanal 1::SE
+Kanal 5 (SE)::Kanal 5::SE
+SVT::STV::SE
+SVT1::SVT1::SE
+SVT2::SVT2::SE
+TV3::TV3::SE
+TV4::TV4::SE
+TV6::TV6::SE
+Unknown (SE)::Unknown::SE
+ZTV (SE)::ZTV::SE
+Animax (SG)::Animax::SG
+AXN (SG)::AXN::SG
+Channel 5 (SG)::Channel 5::SG
+Star World (SG)::Star World::SG
+TV Markíza (SK)::TV Markíza::SK
+Fox (SV)::Fox::SV
+UBC Channel 10 (TH)::UBC Channel 10::TH
+CNBC-e (TR)::CNBC-e::TR
+CTS (TW)::CTS::TW
+47 (UK)::47::UK
+4Music (UK)::4Music::UK
+5* (UK)::5*::UK
+5USA (UK)::5USA::UK
+9XM (UK)::9XM::UK
+AAG (UK)::AAG::UK
+Aaj Tak (UK)::Aaj Tak::UK
+Aastha TV (UK)::Aastha TV::UK
+ABC (UK)::ABC::UK
+ABP New (UK)::ABP New::UK
+Abu Dhabi TV (UK)::Abu Dhabi TV::UK
+Active Channel (UK)::Active Channel::UK
+The Africa Channel::Africa Channel::UK
+Ahlebait TV (UK)::Ahlebait TV::UK
+Ahlulbayt TV (UK)::Ahlulbayt TV::UK
+AIT International (UK)::AIT International::UK
+Al Jazeera Children's Channel (UK)::Al Jazeera Children's Channel::UK
+Al Jazeera English (UK)::Al Jazeera English::UK
+alibi (UK)::alibi::UK
+Amazon Prime Instant Video (UK)::Amazon Prime Instant Video::UK
+ANIMAL PLANET (UK)::ANIMAL PLANET::UK
+Argos TV (UK)::Argos TV::UK
+ARISE News (UK)::ARISE News::UK
+ARY Digital (UK)::ARY Digital::UK
+ARY One Digital (UK)::ARY One Digital::UK
+ARY Qtv (UK)::ARY Qtv::UK
+At the Races (UK)::At the Races::UK
+ATN Bangla (UK)::ATN Bangla::UK
+B4U Movies::B4U Movies::UK
+B4U Music::B4U Music::UK
+BabyTV (UK)::BabyTV::UK
+bafta.org (UK)::bafta.org::UK
+Bangla TV (UK)::Bangla TV::UK
+Bay TV Clywd (UK)::Bay TV Clywd::UK
+Bay TV Liverpool (UK)::Bay TV Liverpool::UK
+Bay TV Swansea (UK)::Bay TV Swansea::UK
+BBC ALBA::BBC ALBA::UK
+BBC Four::BBC FOUR::UK
+BBC iPlayer::BBC iPlayer::UK
+BBC News::BBC NEWS::UK
+BBC One::BBC one::UK
+BBC One East::BBC One East::UK
+BBC One East Midlands::BBC One East Midlands::UK
+BBC one London::BBC one London::UK
+BBC One North East & Cumbria::BBC One North East & Cumbria::UK
+BBC One North West::BBC One North West::UK
+BBC one Northern Ireland::BBC one Northern Ireland::UK
+BBC One Oxfordshire::BBC One Oxfordshire::UK
+BBC one Scotland::BBC one Scotland::UK
+BBC One South East::BBC One South East::UK
+BBC One South West::BBC One South West::UK
+BBC one Wales::BBC one Wales::UK
+BBC One West::BBC One West::UK
+BBC One West Midlands::BBC One West Midlands::UK
+BBC One Yorkshire & Lincolnshire::BBC One Yorkshire & Lincolnshire::UK
+BBC Parliament::BBC PARLIAMENT::UK
+BBC RED BUTTON::BBC RED BUTTON::UK
+BBC Three::BBC three::UK
+BBC Two::BBC TWO::UK
+BBC TWO Northern Ireland::BBC TWO Northern Ireland::UK
+BBC TWO Scotland::BBC TWO Scotland::UK
+BBC TWO Wales::BBC TWO Wales::UK
+Believe TV (UK)::Believe TV::UK
+Best Direct (UK)::Best Direct::UK
+BET (UK)::BET::UK
+Bid (UK)::Bid::UK
+Bid Plus (UK)::Bid Plus::UK
+BLISS (UK)::BLISS::UK
+Bloomberg Television (UK)::Bloomberg Television::UK
+Boomerang (UK)::Boomerang::UK
+The Box::BOX::UK
+BoxNation (UK)::BoxNation::UK
+Bravo (UK)::Bravo::UK
+Brit Asia TV (UK)::Brit Asia TV::UK
+Eurosport::British Eurosport::UK
+British Eurosport 2::British Eurosport 2::UK
+BT Sport 1 (UK)::BT Sport 1::UK
+BT Sport 2 (UK)::BT Sport 2::UK
+BuzMuzik (UK)::BuzMuzik::UK
+Cambridge Presents (UK)::Cambridge Presents::UK
+Capital TV (UK)::Capital TV::UK
+CARTOON NETWORK (UK)::CARTOON NETWORK::UK
+CARTOON NETWORK TOO (UK)::CARTOON NETWORK TOO::UK
+cartoonito (UK)::cartoonito::UK
+CBBC::Cbbc::UK
+CBeebies::CBeebies::UK
+CBS action (UK)::CBS action::UK
+CBS drama (UK)::CBS drama::UK
+CBS reality (UK)::CBS reality::UK
+CCTV News (UK)::CCTV News::UK
+Celebrity Shop (UK)::Celebrity Shop::UK
+Challenge::challenge::UK
+Channel 4::Channel 4::UK
+Channel 5 (UK)::Channel 5::UK
+Channel 5 +24 (UK)::Channel 5 +24::UK
+Channel 9 (UK)::Channel 9::UK
+Channel AKA (UK)::Channel AKA::UK
+Channel i (UK)::Channel i::UK
+channel one (UK)::channel one::UK
+Channel S (UK)::Channel S::UK
+Chart Show Dance (UK)::Chart Show Dance::UK
+Chart Show TV::CHART SHOW TV::UK
+Chat Box (UK)::Chat Box::UK
+CHELSEA TV (UK)::CHELSEA TV::UK
+Christian (UK)::Christian::UK
+Citv (UK)::Citv::UK
+Clubland (UK)::Clubland TV::UK
+CNBC UK::CNBC UK::UK
+CNC World (UK)::CNC World::UK
+CNN (UK)::CNN::UK
+Colors (UK)::Colors::UK
+COMEDY CENTRAL (UK)::COMEDY CENTRAL::UK
+COMEDY CENTRAL EXTRA (UK)::COMEDY CENTRAL EXTRA::UK
+Community Channel (UK)::Community Channel::UK
+Controversial TV (UK)::Controversial TV::UK
+Create and Craft (UK)::Create and Craft::UK
+crime & investigation network (UK)::crime & investigation network::UK
+Dating Channel (UK)::Dating Channel::UK
+Dave::Dave::UK
+Daystar (UK)::Daystar::UK
+Deal Channel (UK)::Deal Channel::UK
+Dept Store (UK)::Dept Store::UK
+Discovery CHANNEL (UK)::Discovery CHANNEL::UK
+Discovery HISTORY (UK)::Discovery HISTORY::UK
+DISCOVERY home&health (UK)::DISCOVERY home&health::UK
+Discovery Science (UK)::Discovery Science::UK
+Discovery Shed. (UK)::Discovery Shed.::UK
+DISCOVERY turbo (UK)::DISCOVERY turbo::UK
+DiSNEY CHANNEL (UK)::DiSNEY CHANNEL::UK
+DiSNEY Junior (UK)::DiSNEY Junior::UK
+DiSNEY XD (UK)::DiSNEY XD::UK
+diva tv (UK)::diva tv::UK
+DM Digital (UK)::DM Digital::UK
+DMAX (UK)::DMAX::UK
+DRAMA (UK)::DRAMA::UK
+E! (UK)::E!::UK
+E4 (UK)::E4::UK
+Eden::eden::UK
+eNCA Africa (UK)::eNCA Africa::UK
+ESPN (UK)::ESPN::UK
+Estuary TV (UK)::Estuary TV::UK
+euronews (UK)::euronews::UK
+EWTN TV (UK)::EWTN TV::UK
+Extreme Sports Channel (UK)::Extreme Sports Channel::UK
+Faith World TV (UK)::Faith World TV::UK
+FILM 4 (UK)::FILM 4::UK
+Fire Hit TV (UK)::Fire Hit TV::UK
+Fitness Channel (UK)::Fitness Channel::UK
+FLAVA (UK)::FLAVA::UK
+Food Network (UK)::Food Network::UK
+FOX (UK)::FOX::UK
+FOX News Channel (UK)::FOX News Channel::UK
+France 24 (UK)::France 24::UK
+Gay Network (UK)::Gay Network::UK
+GayXChange (UK)::GayXChange::UK
+Gems TV (UK)::Gems TV::UK
+Gems TV Extra (UK)::Gems TV Extra::UK
+GEO News (UK)::GEO News::UK
+GEO UK (UK)::GEO UK::UK
+Glory TV (UK)::Glory TV::UK
+God Channel (UK)::God Channel::UK
+GOLD (UK)::GOLD::UK
+Good Food (UK)::Good Food::UK
+Gospel Channel (UK)::Gospel Channel::UK
+Greatest Hits (UK)::Greatest Hits::UK
+H2 (UK)::H2::UK
+Heart TV (UK)::Heart TV::UK
+heat (UK)::heat::UK
+Hidayat TV (UK)::Hidayat TV::UK
+High Street TV (UK)::High Street TV::UK
+HISTORY (UK)::HISTORY::UK
+Holiday & Cruise (UK)::Holiday & Cruise::UK
+home (UK)::home::UK
+Horror Channel (UK)::Horror Channel::UK
+Horse & Country TV (UK)::Horse & Country TV::UK
+Ideal Extra (UK)::Ideal Extra::UK
+Ideal World (UK)::Ideal World::UK
+Information TV (UK)::Information TV::UK
+Inspiration (UK)::Inspiration::UK
+INVESTIGATION DISCOVERY (UK)::INVESTIGATION DISCOVERY::UK
+IQRA TV (UK)::IQRA TV::UK
+Islam Channel (UK)::Islam Channel::UK
+ITV::itv::UK
+itv ANGLIA (UK)::itv ANGLIA::UK
+itv BORDER (UK)::itv BORDER::UK
+itv CENTRAL (UK)::itv CENTRAL::UK
+itv CHANNEL TV (UK)::itv CHANNEL TV::UK
+ITV Wales::itv CYMRU WALES::UK
+itv ENCORE (UK)::itv ENCORE::UK
+ITV Granada::itv GRANADA::UK
+itv LONDON (UK)::itv LONDON::UK
+itv MERIDIAN (UK)::itv MERIDIAN::UK
+itv play (UK)::itv play::UK
+itv TYNE TEES (UK)::itv TYNE TEES::UK
+itv WEST COUNTRY (UK)::itv WEST COUNTRY::UK
+itv YORKSHIRE (UK)::itv YORKSHIRE::UK
+ITV2::itv2::UK
+ITV3::itv3::UK
+ITV4::itv4::UK
+itvBe (UK)::itvBe::UK
+Jewellery Channel (UK)::Jewellery Channel::UK
+Jewellery Maker (UK)::Jewellery Maker::UK
+JML Direct (UK)::JML Direct::UK
+JML Living (UK)::JML Living::UK
+Kerrang! TV::KERRANG! TV::UK
+KICC TV (UK)::KICC TV::UK
+Kiss::KISS::UK
+Kix (UK)::Kix::UK
+Klear TV (UK)::Klear TV::UK
+KMTV (UK)::KMTV::UK
+L!VETV (UK)::L!VETV::UK
+Latest TV (UK)::Latest TV::UK
+LFC TV (UK)::LFC TV::UK
+Lifetime UK::Lifetime::UK
+LONDON LIVE (UK)::LONDON LIVE::UK
+Loveworld TV (UK)::Loveworld TV::UK
+Luxury TV (UK)::Luxury TV::UK
+Madani Channel (UK)::Madani Channel::UK
+Made in Bristol (UK)::Made in Bristol::UK
+Made in Cardiff (UK)::Made in Cardiff::UK
+Made in Leeds (UK)::Made in Leeds::UK
+Made in Teesside (UK)::Made in Teesside::UK
+Made in Tyne & Wear (UK)::Made in Tyne & Wear::UK
+Magic::magic::UK
+Marketplace (UK)::Marketplace::UK
+MATV::MATV National::UK
+MGM (UK)::MGM::UK
+More Than Movies (UK)::More Than Movies::UK
+More4::MORE4::UK
+Motors TV (UK)::Motors TV::UK
+Movies 24 (UK)::Movies 24::UK
+Movies4Men (UK)::Movies4Men::UK
+mstv entertainment (UK)::mstv entertainment::UK
+MTA Muslim TV (UK)::MTA Muslim TV::UK
+MTV (UK)::MTV::UK
+MTV Base::MTV BASE::UK
+MTV CLASSIC (UK)::MTV CLASSIC::UK
+MTV Dance::MTV DANCE::UK
+MTV HITS (UK)::MTV HITS::UK
+MTV LIVE (UK)::MTV LIVE::UK
+MTV MUSIC (UK)::MTV MUSIC::UK
+MTV ROCKS (UK)::MTV ROCKS::UK
+Mustard TV (UK)::Mustard TV::UK
+MUTV::MUTV::UK
+My Channel (UK)::My Channel::UK
+NAT GEO WILD (UK)::NAT GEO WILD::UK
+NATIONAL GEOGRAPHIC CHANNEL (UK)::NATIONAL GEOGRAPHIC CHANNEL::UK
+NDTV 24x7 (UK)::NDTV 24x7::UK
+Netflix (UK)::Netflix::UK
+NHK World (UK)::NHK World::UK
+nick jr. (UK)::nick jr.::UK
+nick jr. 2. (UK)::nick jr. 2.::UK
+nickelodeon (UK)::nickelodeon::UK
+nickToons (UK)::nickToons::UK
+Nollywood Movies (UK)::Nollywood Movies::UK
+Noor TV (UK)::Noor TV::UK
+Notts TV (UK)::Notts TV::UK
+NTV (UK)::NTV::UK
+NVTV (UK)::NVTV::UK
+Olive TV (UK)::Olive TV::UK
+Open Heaven TV (UK)::Open Heaven TV::UK
+PaverShoes.tv (UK)::PaverShoes.tv::UK
+PBS AMERICA (UK)::PBS AMERICA::UK
+Peace TV (UK)::Peace TV::UK
+Peace TV Urdu (UK)::Peace TV Urdu::UK
+Phoenix XNE (UK)::Phoenix XNE::UK
+Pick TV::pick::UK
+Pitch TV (UK)::Pitch TV::UK
+Pitch World (UK)::Pitch World::UK
+Planet POP (UK)::Planet POP::UK
+POP (UK)::POP::UK
+Pop Girl (UK)::Pop Girl::UK
+Praise TV (UK)::Praise TV::UK
+Premier Sports (UK)::Premier Sports::UK
+Price Drop (UK)::Price Drop::UK
+Primetime (UK)::Primetime::UK
+propellor (UK)::propellor::UK
+Psychic Today (UK)::Psychic Today::UK
+PTC Global (UK)::PTC Global::UK
+PTC Prime (UK)::PTC Prime::UK
+PTC Punjabi (UK)::PTC Punjabi::UK
+QUEST (UK)::QUEST::UK
+QVC (UK)::QVC::UK
+QVC Beauty (UK)::QVC Beauty::UK
+QVC Extra (UK)::QVC Extra::UK
+QVC Style (UK)::QVC Style::UK
+Racing UK::Racing UK::UK
+REALLY (UK)::REALLY::UK
+Record TV (UK)::Record TV::UK
+Renault TV (UK)::Renault TV::UK
+Retail TV (UK)::Retail TV::UK
+Revelation TV::Revelation::UK
+Rishtey (UK)::Rishtey::UK
+Rocks & Co. (UK)::Rocks & Co.::UK
+RT (UK)::RT::UK
+S4/C::S4C::UK
+SAB tv (UK)::SAB tv::UK
+Sahara One (UK)::Sahara One::UK
+SAMAA TV (UK)::SAMAA TV::UK
+Sangat TV (UK)::Sangat TV::UK
+Scuzz::SCUZZ::UK
+SET Max (UK)::SET Max::UK
+Sheffield Live! (UK)::Sheffield Live!::UK
+Showcase (UK)::Showcase::UK
+Showcase 2 (UK)::Showcase 2::UK
+Sikh Channel (UK)::Sikh Channel::UK
+Sky1::sky 1::UK
+Sky2::sky 2::UK
+sky 3D (UK)::sky 3D::UK
+Sky Arts::sky ARTS 1::UK
+sky ARTS 2 (UK)::sky ARTS 2::UK
+Sky Atlantic::sky ATLANTIC::UK
+Sky Living::sky LIVING::UK
+sky LIVING LOVES (UK)::sky LIVING LOVES::UK
+sky LIVINGit (UK)::sky LIVINGit::UK
+sky MOVIES ACTION & ADVENTURE (UK)::sky MOVIES ACTION & ADVENTURE::UK
+sky MOVIES COMEDY (UK)::sky MOVIES COMEDY::UK
+sky MOVIES CRIME & THRILLER (UK)::sky MOVIES CRIME & THRILLER::UK
+sky MOVIES DiSNEY (UK)::sky MOVIES DiSNEY::UK
+sky MOVIES DRAMA & ROMANCE (UK)::sky MOVIES DRAMA & ROMANCE::UK
+sky MOVIES FAMILY (UK)::sky MOVIES FAMILY::UK
+sky MOVIES PREMIERE (UK)::sky MOVIES PREMIERE::UK
+sky MOVIES SCI FI & HORROR (UK)::sky MOVIES SCI FI & HORROR::UK
+sky MOVIES SELECT (UK)::sky MOVIES SELECT::UK
+sky MOVIES SHOWCASE (UK)::sky MOVIES SHOWCASE::UK
+sky MOVIES SUPERHEROES (UK)::sky MOVIES SUPERHEROES::UK
+Sky News::sky NEWS::UK
+sky NEWS ARABIA (UK)::sky NEWS ARABIA::UK
+sky Real Lives (UK)::sky Real Lives::UK
+Sky Sports::sky SPORTS 1::UK
+sky SPORTS 2 (UK)::sky SPORTS 2::UK
+sky SPORTS 3 (UK)::sky SPORTS 3::UK
+sky SPORTS 4 (UK)::sky SPORTS 4::UK
+sky SPORTS 5 (UK)::sky SPORTS 5::UK
+sky SPORTS F1 (UK)::sky SPORTS F1::UK
+sky SPORTS NEWS HQ (UK)::sky SPORTS NEWS HQ::UK
+Smart Live Casino (UK)::Smart Live Casino::UK
+Smash Hits::SMASH HiTS::UK
+SonLife Broadcasting Channel (UK)::SonLife Broadcasting Channel::UK
+SONY ENTERTAINMENT TELEVISION (UK)::SONY ENTERTAINMENT TELEVISION::UK
+Sony Entertainment Television Asia (UK)::Sony Entertainment Television Asia::UK
+SONY Movie Channel (UK)::SONY Movie Channel::UK
+SPIKE (UK)::SPIKE::UK
+Sports Tonight Live (UK)::Sports Tonight Live::UK
+Star Gold (UK)::Star Gold::UK
+Star Life Ok (UK)::Star Life Ok::UK
+Star Plus (UK)::Star Plus::UK
+Starz TV (UK)::Starz TV::UK
+Store (UK)::Store::UK
+STV::stv::UK
+STV Edinburgh (UK)::STV Edinburgh::UK
+STV Glasgow (UK)::STV Glasgow::UK
+style. NETWORK (UK)::style. NETWORK::UK
+Sunrise TV (UK)::Sunrise TV::UK
+Super Casino (UK)::Super Casino::UK
+Syfy (UK)::Syfy::UK
+Syndicated (UK)::Syndicated::UK
+Takbeer TV (UK)::Takbeer TV::UK
+TBN Europe (UK)::TBN Europe::UK
+Thane Direct (UK)::Thane Direct::UK
+That's Hampshire (UK)::That's Hampshire::UK
+That's Oxford (UK)::That's Oxford::UK
+That's Reading (UK)::That's Reading::UK
+That's Salisbury (UK)::That's Salisbury::UK
+That's Solent (UK)::That's Solent::UK
+That's Surrey (UK)::That's Surrey::UK
+Tiny Pop (UK)::Tiny Pop::UK
+TLC (UK)::TLC::UK
+Trace Sports (UK)::Trace Sports::UK
+travel CHANNEL (UK)::travel CHANNEL::UK
+True Drama (UK)::True Drama::UK
+True Entertainment (UK)::True Entertainment::UK
+True Movies 1 (UK)::True Movies 1::UK
+True Movies 2 (UK)::True Movies 2::UK
+truTV (UK)::truTV::UK
+TCM::TURNER CLASSIC MOVIES::UK
+TV Shop (UK)::TV Shop::UK
+TV5MONDE Europe (UK)::TV5MONDE Europe::UK
+UCB TV (UK)::UCB TV::UK
+Ummah Channel (UK)::Ummah Channel::UK
+UMP Movies (UK)::UMP Movies::UK
+UMP Stars (UK)::UMP Stars::UK
+UNIVERSAL CHANNEL (UK)::UNIVERSAL CHANNEL::UK
+Unknown (UK)::Unknown::UK
+UTV (UK)::UTV::UK
+V Channel (UK)::V Channel::UK
+Vault (UK)::Vault::UK
+Venus TV (UK)::Venus TV::UK
+VH1 (UK)::VH1::UK
+Vintage TV (UK)::Vintage TV::UK
+Vision (UK)::Vision::UK
+Vision 2 (UK)::Vision 2::UK
+VIVA (UK)::VIVA::UK
+VoxAfrica (UK)::VoxAfrica::UK
+Watch::WATCH::UK
+wedding tv (UK)::wedding tv::UK
+Word Network (UK)::Word Network::UK
+YESTERDAY (UK)::YESTERDAY::UK
+York Channel (UK)::York Channel::UK
+Yorkshire Coast TV (UK)::Yorkshire Coast TV::UK
+YourTV Blackpool & Preston (UK)::YourTV Blackpool & Preston::UK
+YourTV Manchester (UK)::YourTV Manchester::UK
+YouTube (UK)::YouTube::UK
+Zee Café (UK)::Zee Café::UK
+Zee Cinema (UK)::Zee Cinema::UK
+Zee Punjabi (UK)::Zee Punjabi::UK
+ZEE TV (UK)::ZEE TV::UK
+Zing (UK)::Zing::UK
+24/7 (US)::24/7::US
+3ABN (US)::3ABN::US
+3ABN Latino (US)::3ABN Latino::US
+3ABN Proclaim! (US)::3ABN Proclaim!::US
+3ABN Russia (US)::3ABN Russia::US
+3net (US)::3net::US
+4SD (US)::4SD::US
+5 abc (US)::5 abc::US
+7NBC (US)::7NBC::US
+A&E::A&E::US
+AANtv (US)::AANtv::US
+ABC::ABC::US
+ABC Family::ABC Family::US
+abc7 (US)::abc7::US
+ABC7 Chicago (US)::ABC7 Chicago::US
+ABN (US)::ABN::US
+abo (US)::abo::US
+ACBN (US)::ACBN::US
+AccuWeather Channel (US)::AccuWeather Channel::US
+ACN (US)::ACN::US
+Adult Swim::Adult Swim::US
+Adventist TV (US)::Adventist TV::US
+Africa Channel (US)::Africa Channel::US
+Afrotainment (US)::Afrotainment::US
+Afrotainment Music (US)::Afrotainment Music::US
+Al Jazeera America::Al Jazeera America::US
+Al Karma TV (US)::Al Karma TV::US
+All Nations TV (US)::All Nations TV::US
+Almavision (US)::Almavision::US
+Altitude sports (US)::Altitude sports::US
+AMAZING FACTS (US)::AMAZING FACTS::US
+Amazon::Amazon Prime Instant Video::US
 AMC::amc::US
+America One Television Network::AMERICA ONE::US
+AMERICAN HEROES CHANNEL (US)::AMERICAN HEROES CHANNEL::US
+American Liberty (US)::American Liberty::US
+AMGTV (US)::AMGTV::US
+Angel One (US)::Angel One::US
+Angel Two (US)::Angel Two::US
+Animal Planet::Animal Planet::US
+Anime Network::Anime Network::US
+ANTENNA TV (US)::ANTENNA TV::US
+AOL (US)::AOL::US
+Apostolic Oneness Network (US)::Apostolic Oneness Network::US
+Arabic Channel (US)::Arabic Channel::US
+Arizona Capitol Television (US)::Arizona Capitol Television::US
+Arizona NewsChannel (US)::Arizona NewsChannel::US
+ARTN (US)::ARTN::US
+ASEN (US)::ASEN::US
+ASEN2 (US)::ASEN2::US
+ASPiRE (US)::ASPiRE::US
+ATN Service 1 (US)::ATN Service 1::US
+ATN Service 2 (US)::ATN Service 2::US
+Audience Network::AUDIENCE NETWORK::US
+AWE (US)::AWE::US
+AXStv (US)::AXStv::US
+AZN Television (US)::AZN Television::US
+azteca america (US)::azteca america::US
+BabyFirstTV::BabyFirstTV::US
+Babytv (US)::Babytv::US
+BANDAMAX (US)::BANDAMAX::US
+BAY NEWS 9 (US)::BAY NEWS 9::US
+BBC America::BBC America::US
+Bebo.com (US)::Bebo.com::US
+beIN SPORT (US)::beIN SPORT::US
+BET::BET::US
+BET Gospel (US)::BET Gospel::US
+BET HIP HOP (US)::BET HIP HOP::US
+BHSN (US)::BHSN::US
+Big Ten Network (US)::Big Ten Network::US
+BiZ TELEVISION (US)::BiZ TELEVISION::US
+TheBlaze::Blaze::US
+blip (US)::blip::US
+Bloomberg TELEVISION (US)::Bloomberg TELEVISION::US
+Blue Ridge Communications (US)::Blue Ridge Communications::US
+Boomerang::BOOMERANG::US
+BOSTEL (US)::BOSTEL::US
+BOUNCE TV (US)::BOUNCE TV::US
+Bravo::Bravo::US
+bravotv.com (US)::bravotv.com::US
+BYU Television::BYU Television::US
+C-Span::C-SPAN::US
+C-SPAN2 (US)::C-SPAN2::US
+C-SPAN3 (US)::C-SPAN3::US
+CAN TV19 (US)::CAN TV19::US
+Canal de las Estrellas Latinoamerica (US)::Canal de las Estrellas Latinoamerica::US
+Cancao News (US)::Cancao News::US
+CARS.TV (US)::CARS.TV::US
+Cartoon Network::Cartoon Network::US
+casa club tv (US)::casa club tv::US
+CATHOLICTV (US)::CATHOLICTV::US
+CBeebies (US)::CBeebies::US
+CBS::CBS::US
+CBS 2 HD (US)::CBS 2 HD::US
+CBS 2 LOS ANGELES (US)::CBS 2 LOS ANGELES::US
+CBS 2 NEW YORK (US)::CBS 2 NEW YORK::US
+CBS 4 (US)::CBS 4::US
+CBS Korean (US)::CBS Korean::US
+CBS SPORTS NETWORK (US)::CBS SPORTS NETWORK::US
+CBS.com (US)::CBS.com::US
+CC:STUDIOS (US)::CC:STUDIOS::US
+CCN (US)::CCN::US
+CCTV-4 (US)::CCTV-4::US
+Centric (US)::Centric::US
+CGN TV (US)::CGN TV::US
+Channel 7 (US)::Channel 7::US
+chiller (US)::chiller::US
+Christian Television Network (US)::Christian Television Network::US
+Church Channel (US)::Church Channel::US
+Cinelatino (US)::Cinelatino::US
+Cinemax::CINEMAX::US
+clásico TV (US)::clásico TV::US
+Classic Arts Showcase::Classic Arts Showcase::US
+cloo (US)::cloo::US
+CLTV (US)::CLTV::US
+CMT::CMT Pure Country::US
+CN100 (US)::CN100::US
+CNBC::CNBC::US
+CNL Russian (US)::CNL Russian::US
+CNN::CNN::US
+CNN en Español (US)::CNN en Español::US
+Colorado's Own Channel 2 (US)::Colorado's Own Channel 2::US
+Comcast Entertainment Television (US)::Comcast Entertainment Television::US
+Comcast hometown network (US)::Comcast hometown network::US
+comcast NETWORK Philadelphia (US)::comcast NETWORK Philadelphia::US
+comcast NETWORK Washington (US)::comcast NETWORK Washington::US
+COMCAST Sports Net Chicago (US)::COMCAST Sports Net Chicago::US
+COMCAST Sports Net New England (US)::COMCAST Sports Net New England::US
+comcast SPORTSNET BAY AREA (US)::comcast SPORTSNET BAY AREA::US
+comcast SPORTSNET CALIFORNIA (US)::comcast SPORTSNET CALIFORNIA::US
+comcast SPORTSNET HOUSTON (US)::comcast SPORTSNET HOUSTON::US
+comcast SPORTSNET MID ATLANTIC (US)::comcast SPORTSNET MID ATLANTIC::US
+comcast SPORTSNET NORTHWEST (US)::comcast SPORTSNET NORTHWEST::US
+comcast SPORTSNET PHILADELPHIA (US)::comcast SPORTSNET PHILADELPHIA::US
+Comcast Television (US)::Comcast Television::US
+Comcast/Charter Sports Southeast (US)::Comcast/Charter Sports Southeast::US
+Comedy Central::Comedy Central::US
+Comedy.tv (US)::Comedy.tv::US
+Cooking Channel::Cooking Channel::US
+COOLTV (US)::COOLTV::US
+Coptic TV (US)::Coptic TV::US
+Cornerstone Television (US)::Cornerstone Television::US
+Country Music Television (US)::Country Music Television::US
+Cozi TV (US)::Cozi TV::US
+Crackle::Crackle::US
+create (US)::create::US
+Credo TV (US)::Credo TV::US
+Crime & Investigation Network::Crime & Investigation Network::US
+CSS (US)::CSS::US
+CST (US)::CST::US
+The CW::CW::US
+CWSEED.com (US)::CWSEED.com::US
+Dangerjane.tv (US)::Dangerjane.tv::US
+Dare to Dream Network (US)::Dare to Dream Network::US
+daybreak2012.com (US)::daybreak2012.com::US
+DAYSTAR (US)::DAYSTAR::US
+de película (US)::de película::US
+de película clásico (US)::de película clásico::US
+Denver's 7 (US)::Denver's 7::US
+Destination America::Destination America::US
+Detroit Lions Television Network (US)::Detroit Lions Television Network::US
+Deutsche Welle (US)::Deutsche Welle::US
+DFamilia (US)::DFamilia::US
+Discovery::Discovery Channel::US
+Discovery en Español (US)::Discovery en Español::US
+Discovery Family (US)::Discovery Family::US
+Discovery fit&health (US)::Discovery fit&health::US
+Disney Channel::DiSNEY CHANNEL::US
+DiSNEY Junior (US)::DiSNEY Junior::US
+Disney XD::DiSNEY XD::US
+DiSNEY.com (US)::DiSNEY.com::US
+Divine TV (US)::Divine TV::US
+DIY Network::diy network::US
+DuMont Television Network::DuMont Television Network::US
+E!::E!::US
+EICB (US)::EICB::US
+El Rey Network::EL REY NETWORK::US
+Emmanuel TV (US)::Emmanuel TV::US
+Encore Westerns East (US)::Encore Westerns East::US
+Encore::encore.::US
+encore. action (US)::encore. action::US
+encore. family (US)::encore. family::US
+epix (US)::epix::US
+ES.TV (US)::ES.TV::US
+Esperanza TV (US)::Esperanza TV::US
+ESPN::ESPN::US
+ESPN 2 (US)::ESPN 2::US
+ESPN Classic (US)::ESPN Classic::US
+ESPN DEPORTES (US)::ESPN DEPORTES::US
+ESPN Full Court (US)::ESPN Full Court::US
+ESPN Game Plan (US)::ESPN Game Plan::US
+ESPNEWS (US)::ESPNEWS::US
+ESPNU (US)::ESPNU::US
+Esquire Network::Esquire NETWORK::US
+estrellaTV (US)::estrellaTV::US
+Eternal Word Television Network (US)::Eternal Word Television Network::US
+EUROCHANNEL (US)::EUROCHANNEL::US
+Exitos TV (US)::Exitos TV::US
+Family Friendly Entertainment (US)::Family Friendly Entertainment::US
+FEARnet::FEARNET::US
+FIGHT NOW tv (US)::FIGHT NOW tv::US
+FLIX (US)::FLIX::US
+Flow TV (US)::Flow TV::US
+Food Network::food network::US
+FORO tv (US)::FORO tv::US
+FOX::FOX::US
+FOX 11 (US)::FOX 11::US
+FOX 31 DENVER (US)::FOX 31 DENVER::US
+FOX 32 (US)::FOX 32::US
+FOX 5 (US)::FOX 5::US
+Fox Business::FOX BUSINESS NETWORK::US
+FOX COLLEGE SPORTS ATLANTIC (US)::FOX COLLEGE SPORTS ATLANTIC::US
+FOX COLLEGE SPORTS CENTRAL (US)::FOX COLLEGE SPORTS CENTRAL::US
+FOX COLLEGE SPORTS PACIFIC (US)::FOX COLLEGE SPORTS PACIFIC::US
+FOX DEPORTES (US)::FOX DEPORTES::US
+FOX NEWS channel (US)::FOX NEWS channel::US
+FOX ROCHESTER (US)::FOX ROCHESTER::US
+FOX SOCCER plus (US)::FOX SOCCER plus::US
+FOX Sports 1::FOX SPORTS 1::US
+FOX Sports 2::FOX SPORTS 2::US
+FOX SPORTS ARIZONA (US)::FOX SPORTS ARIZONA::US
+FOX SPORTS CAROLINAS (US)::FOX SPORTS CAROLINAS::US
+FOX SPORTS DETROIT (US)::FOX SPORTS DETROIT::US
+FOX SPORTS FLORIDA (US)::FOX SPORTS FLORIDA::US
+FOX SPORTS INDIANA (US)::FOX SPORTS INDIANA::US
+FOX SPORTS KANSAS CITY (US)::FOX SPORTS KANSAS CITY::US
+FOX SPORTS MIDWEST (US)::FOX SPORTS MIDWEST::US
+FOX SPORTS NEW ORLEANS (US)::FOX SPORTS NEW ORLEANS::US
+FOX SPORTS NORTH (US)::FOX SPORTS NORTH::US
+FOX SPORTS OHIO (US)::FOX SPORTS OHIO::US
+FOX SPORTS OKLAHOMA (US)::FOX SPORTS OKLAHOMA::US
+FOX SPORTS PRIME TICKET (US)::FOX SPORTS PRIME TICKET::US
+FOX SPORTS SAN DIEGO (US)::FOX SPORTS SAN DIEGO::US
+FOX SPORTS SOUTH (US)::FOX SPORTS SOUTH::US
+FOX SPORTS SOUTHWEST (US)::FOX SPORTS SOUTHWEST::US
+FOX SPORTS SPORTSOUTH (US)::FOX SPORTS SPORTSOUTH::US
+FOX SPORTS SUN SPORTS (US)::FOX SPORTS SUN SPORTS::US
+FOX SPORTS TENNESSEE (US)::FOX SPORTS TENNESSEE::US
+FOX SPORTS WEST (US)::FOX SPORTS WEST::US
+FOX SPORTS WISCONSIN (US)::FOX SPORTS WISCONSIN::US
+FRANCE24 (US)::FRANCE24::US
+Frost Great Outdoors (US)::Frost Great Outdoors::US
+FSTV (US)::FSTV::US
+FUNimation Channel::FUNIMATION CHANNEL::US
+funnyordie.com (US)::funnyordie.com::US
+fuse::fuse::US
+Fusion (US)::Fusion::US
+FX::FX::US
+FX MOVIE CHANNEL (US)::FX MOVIE CHANNEL::US
+FXX::FXX::US
+FYI::fyi,::US
+G4::G4::US
+Galavisión (US)::Galavisión::US
+Game Show Network (US)::Game Show Network::US
+GBN (US)::GBN::US
+GEB AMERICA (US)::GEB AMERICA::US
+Gem Shopping Network (US)::Gem Shopping Network::US
+get TV (US)::get TV::US
+GLOBO TV International (US)::GLOBO TV International::US
+God's Learning Channel (US)::God's Learning Channel::US
+GOLF CHANNEL (US)::GOLF CHANNEL::US
+GOLTV (US)::GOLTV::US
+gothamgirls.com (US)::gothamgirls.com::US
+Great American Country::GREAT AMERICAN COUNTRY::US
+H2::H2::US
+Hallmark Channel::Hallmark CHANNEL::US
+Hallmark MOVIES & MYSTERIES (US)::Hallmark MOVIES & MYSTERIES::US
+halowaypoint.com (US)::halowaypoint.com::US
+Harmony Channel (US)::Harmony Channel::US
+HBO::HBO::US
+HBO Family (US)::HBO Family::US
+HBO Signature (US)::HBO Signature::US
+HBO2 (US)::HBO2::US
+HDNet::HD NET MOVIES::US
+Headline News (US)::Headline News::US
+Healthy Living Network (US)::Healthy Living Network::US
+heartland (US)::heartland::US
+here!::here TV::US
+HGTV::HGTV::US
+History::HISTORY::US
+History en Español (US)::History en Español::US
+HITN (US)::HITN::US
+Home Team Networks (US)::Home Team Networks::US
+Hope CHANNEL (US)::Hope CHANNEL::US
+Hope Church Channel (US)::Hope Church Channel::US
+Howard TV (US)::Howard TV::US
+HRTV (US)::HRTV::US
+HSN (US)::HSN::US
+hTV (US)::hTV::US
+Hulu::hulu::US
+IFC::IFC::US
+Impact TV (US)::Impact TV::US
+ingaylewetrust.com (US)::ingaylewetrust.com::US
+Inmigrante TV (US)::Inmigrante TV::US
+insp (US)::insp::US
+Inspiration Network International (US)::Inspiration Network International::US
+Investigation Discovery::Investigation Discovery::US
+ion LIFE (US)::ion LIFE::US
+Ion Television::ion TELEVISION::US
+iTunes (US)::iTunes::US
+ITV Gold (US)::ITV Gold::US
+ivfilms.net (US)::ivfilms.net::US
+jewelrytelevision (US)::jewelrytelevision::US
+JLTV (US)::JLTV::US
+jts.tv (US)::jts.tv::US
+JUCE TV (US)::JUCE TV::US
+JUS ONE (US)::JUS ONE::US
+JUS PUNJABI (US)::JUS PUNJABI::US
+JUSTICE CENTRAL (US)::JUSTICE CENTRAL::US
+KABC-TV Los Angeles (US)::KABC-TV Los Angeles::US
+KARE 11 (US)::KARE 11::US
+KCET::KCET::US
+Kids and Teens TV::Kids & Teens TV::US
+KING-TV (US)::KING-TV::US
+KNLJ (US)::KNLJ::US
+KNXT (US)::KNXT::US
+KO-AM TV (US)::KO-AM TV::US
+Koldcast.tv (US)::Koldcast.tv::US
+Korean Channel (US)::Korean Channel::US
+KTLA 5 (US)::KTLA 5::US
+KYW-TV (US)::KYW-TV::US
+La Familia Cosmovision (US)::La Familia Cosmovision::US
+LATV (US)::LATV::US
+LeSEA broadcasting network (US)::LeSEA broadcasting network::US
+LFN (US)::LFN::US
+Liberty Channel::LIBERTY CHANNEL::US
+LifeTalk Network (US)::LifeTalk Network::US
+Lifetime::Lifetime::US
+LMN::lifetime movie network::US
+lifetime real women (US)::lifetime real women::US
+link TV (US)::link TV::US
+Liquidation Channel (US)::Liquidation Channel::US
+Live Well NETWORK (US)::Live Well NETWORK::US
+Living Faith TV (US)::Living Faith TV::US
+LLBN Arabic (US)::LLBN Arabic::US
+LLBN Chinese (US)::LLBN Chinese::US
+LLBN English (US)::LLBN English::US
+LLBN Latino (US)::LLBN Latino::US
+LLBN Southern Asia (US)::LLBN Southern Asia::US
+Local 4 (US)::Local 4::US
+Logo::LOGO TV::US
+LONGHORN NETWORK (US)::LONGHORN NETWORK::US
+LOOKBOOK.nu (US)::LOOKBOOK.nu::US
+machinima.com (US)::machinima.com::US
+maniaTV.com (US)::maniaTV.com::US
+MavTV::MAVTV::US
+meGa tv (US)::meGa tv::US
+MeTV (US)::MeTV::US
+Mexicanal (US)::Mexicanal::US
+MGM HD (US)::MGM HD::US
+MHz Worldview (US)::MHz Worldview::US
+mid-atlantic sports network (US)::mid-atlantic sports network::US
+MILITARY HISTORY (US)::MILITARY HISTORY::US
+MiND: Media Independence (US)::MiND: Media Independence::US
+Minnesota Channel (US)::Minnesota Channel::US
+MKTV (US)::MKTV::US
+MLB EXTRA INNINGS (US)::MLB EXTRA INNINGS::US
+MLB NETWORK (US)::MLB NETWORK::US
+MLS DIRECT KICK (US)::MLS DIRECT KICK::US
+Mnet AMERICA (US)::Mnet AMERICA::US
+MOJO (US)::MOJO::US
+MOVIE CHANNEL (US)::MOVIE CHANNEL::US
+movieplex (US)::movieplex::US
+MOVIES! (US)::MOVIES!::US
+MSG (US)::MSG::US
+MSG+ (US)::MSG+::US
+MSNBC::msnbc::US
+MTV::MTV::US
+MTV Hits::MTV Hits::US
+MTV Jams (US)::MTV Jams::US
+MTV2::MTV2::US
+mtvU (US)::mtvU::US
+Multimedios Television (US)::Multimedios Television::US
+mun2 (US)::mun2::US
+MUNDOFOX (US)::MUNDOFOX::US
+MundoVision (US)::MundoVision::US
+My family tv (US)::My family tv::US
+my38 (US)::my38::US
+my9 (US)::my9::US
+MyDestination.tv (US)::MyDestination.tv::US
+mynetworkTV (US)::mynetworkTV::US
+myspace.com (US)::myspace.com::US
+MYXTV (US)::MYXTV::US
+NASA TELEVISION (US)::NASA TELEVISION::US
+Nat Geo Wild::NAT GEO WILD::US
+National Geographic::National Geographic Channel::US
+National Jewish Television (US)::National Jewish Television::US
+NBA League Pass (US)::NBA League Pass::US
+NBA TV (US)::NBA TV::US
+NBC::NBC::US
+NBC 4 NEW YORK (US)::NBC 4 NEW YORK::US
+NBC 4 Southern California (US)::NBC 4 Southern California::US
+NBC 4 WASHINGTON D.C. (US)::NBC 4 WASHINGTON D.C.::US
+NBC 5 Chicago (US)::NBC 5 Chicago::US
+NBCSN (US)::NBCSN::US
+NECN (US)::NECN::US
+Nejat TV (US)::Nejat TV::US
+neonalley.com (US)::neonalley.com::US
+Netflix::Netflix::US
+New England Sports Network (US)::New England Sports Network::US
+New Greek TV (US)::New Greek TV::US
+NEWS 12 BROOKLYN (US)::NEWS 12 BROOKLYN::US
+NEWS 12 CONNECTICUT (US)::NEWS 12 CONNECTICUT::US
+NEWS 12 HUDSON VALLEY (US)::NEWS 12 HUDSON VALLEY::US
+NEWS 12 LONG ISLAND (US)::NEWS 12 LONG ISLAND::US
+NEWS 12 NEW JERSEY (US)::NEWS 12 NEW JERSEY::US
+NEWS 12 THE BRONX (US)::NEWS 12 THE BRONX::US
+NEWS 12 TRAFFIC AND WEATHER (US)::NEWS 12 TRAFFIC AND WEATHER::US
+NEWS 12 WESTCHESTER (US)::NEWS 12 WESTCHESTER::US
+NEWS 13 (US)::NEWS 13::US
+NEWS CHANNEL 9 (US)::NEWS CHANNEL 9::US
+News9NOW (US)::News9NOW::US
+NewsChannel 8 (US)::NewsChannel 8::US
+NewsOn6NOW (US)::NewsOn6NOW::US
+NewsWatch 15 (US)::NewsWatch 15::US
+NFL NETWORK (US)::NFL NETWORK::US
+NFL Redzone (US)::NFL Redzone::US
+NFL Sunday Ticket (US)::NFL Sunday Ticket::US
+NFL Sunday Ticket Redzone (US)::NFL Sunday Ticket Redzone::US
+NHL Center Ice (US)::NHL Center Ice::US
+NHL NETWORK (US)::NHL NETWORK::US
+Nick Jr.::nick jr.::US
+nick@nite (US)::nick@nite::US
+Nickelodeon::nickelodeon::US
+NickToons Network::nickToons::US
+NRB (US)::NRB::US
+NUVOtv (US)::NUVOtv::US
+NWCN (US)::NWCN::US
+NY1 (US)::NY1::US
+NYCTV life (US)::NYCTV life::US
+One America NEWS NETWORK (US)::One America NEWS NETWORK::US
+One World Sport (US)::One World Sport::US
+OWN::OPRAH WINFREY NETWORK::US
+Outdoor Channel::Outdoor Channel::US
+Outside TELEVISION (US)::Outside TELEVISION::US
+Ovation TV::OVATION::US
+Overcomer Ministries (US)::Overcomer Ministries::US
+Oxygen::oxygen::US
+Pac-12 Arizona (US)::Pac-12 Arizona::US
+Pac-12 Bay Area (US)::Pac-12 Bay Area::US
+Pac-12 Los Angeles (US)::Pac-12 Los Angeles::US
+Pac-12 Mountain (US)::Pac-12 Mountain::US
+Pac-12 Network (US)::Pac-12 Network::US
+Pac-12 Oregon (US)::Pac-12 Oregon::US
+Pac-12 Washington (US)::Pac-12 Washington::US
+palladia (US)::palladia::US
+Pastor Scott (US)::Pastor Scott::US
+Pay-Per-View (US)::Pay-Per-View::US
+PBJ (US)::PBJ::US
+PBS::PBS::US
+PCNC (US)::PCNC::US
+Peace tv (US)::Peace tv::US
+Peachtree TV (US)::Peachtree TV::US
+Pets.tv (US)::Pets.tv::US
+pivot::pivot::US
+PIX 11 (US)::PIX 11::US
+Playboy TV::PLAYBOY TV::US
+PUNCH TV NETWORK (US)::PUNCH TV NETWORK::US
+pursuit CHANNEL (US)::pursuit CHANNEL::US
+Q Television Network (US)::Q Television Network::US
+qubo (US)::qubo::US
+QVC::QVC::US
+Real Hip-Hop Network (US)::Real Hip-Hop Network::US
+RECIPE.TV (US)::RECIPE.TV::US
+ReelzChannel::REELZ::US
+Reformation Channel (US)::Reformation Channel::US
+retro tv (US)::retro tv::US
+REVOLT (US)::REVOLT::US
+RFD-TV (US)::RFD-TV::US
+RIPE TV (US)::RIPE TV::US
+RLTV::RLTV::US
+rocketjump.com (US)::rocketjump.com::US
+ROCKS TV (US)::ROCKS TV::US
+roosterteeth.com (US)::roosterteeth.com::US
+ROOT SPORTS NORTHWEST (US)::ROOT SPORTS NORTHWEST::US
+ROOT SPORTS PITTSBURGH (US)::ROOT SPORTS PITTSBURGH::US
+ROOT SPORTS ROCKY MOUNTAIN (US)::ROOT SPORTS ROCKY MOUNTAIN::US
+ROOT SPORTS UTAH (US)::ROOT SPORTS UTAH::US
+rox.com (US)::rox.com::US
+RSC (US)::RSC::US
+RT America (US)::RT America::US
+RURAL TV (US)::RURAL TV::US
+Sabres Hockey Network (US)::Sabres Hockey Network::US
+SafeTV (US)::SafeTV::US
+SBTN (US)::SBTN::US
+Science Channel::Science::US
+SEC ESPN NETWORK (US)::SEC ESPN NETWORK::US
+Shalom TV (US)::Shalom TV::US
+Shepherd's Chapel Network (US)::Shepherd's Chapel Network::US
+SHO NEXT (US)::SHO NEXT::US
+sho.com (US)::sho.com::US
+SHOWCASE (US)::SHOWCASE::US
+Showtime::SHOWTIME::US
+SHOWTIME BEYOND (US)::SHOWTIME BEYOND::US
+SHOWTIME eXtreme (US)::SHOWTIME eXtreme::US
+SHOWTIME2 (US)::SHOWTIME2::US
+SHQP (US)::SHQP::US
+Sino TV (US)::Sino TV::US
+Sky Link TV (US)::Sky Link TV::US
+Smile of a Child TV (US)::Smile of a Child TV::US
+Smithsonian Channel::Smithsonian CHANNEL::US
+SNN LOCAL NEWS (US)::SNN LOCAL NEWS::US
+SOAPnet::SOAPNET::US
+SonBeam Channel (US)::SonBeam Channel::US
+SonLife Broadcasting Network (US)::SonLife Broadcasting Network::US
+SONY MOVIE CHANNEL (US)::SONY MOVIE CHANNEL::US
+Soul of the South Television Network (US)::Soul of the South Television Network::US
+Soundtrack Channel (US)::Soundtrack Channel::US
+Speed::Speed::US
+Spike TV::SPIKE::US
+Spirit (US)::Spirit::US
+Spirit Word (US)::Spirit Word::US
+spookyland.com (US)::spookyland.com::US
+SPORTS TIME OHIO (US)::SPORTS TIME OHIO::US
+The Sportsman Channel::SPORTSMAN CHANNEL::US
+SportsNet New York (US)::SportsNet New York::US
+Sprout (US)::Sprout::US
+spt tv (US)::spt tv::US
+startreknewvoyages.com (US)::startreknewvoyages.com::US
+Starz!::starz::US
+starz INBLACK (US)::starz INBLACK::US
+starz KIDS & FAMILY (US)::starz KIDS & FAMILY::US
+SundanceTV::SUNDANCE TV::US
+Syfy::Syfy::US
+SyFy.com (US)::SyFy.com::US
+Syndication::Syndicated::US
+Tai Seng Sat TV (US)::Tai Seng Sat TV::US
+Tapesh TV (US)::Tapesh TV::US
+TBN Enlace (US)::TBN Enlace::US
+TBN Russia (US)::TBN Russia::US
+TBS::tbs::US
+TCT (US)::TCT::US
+TCT Family (US)::TCT Family::US
+TeenNick::Teennick::US
+TeLe-Romántica (US)::TeLe-Romántica::US
+TELECARE (US)::TELECARE::US
+TeLeHiTs (US)::TeLeHiTs::US
+Telemundo::TELEMUNDO::US
+TELEMUNDO PUERTO RICO (US)::TELEMUNDO PUERTO RICO::US
+Tempo Network (US)::Tempo Network::US
+TENNIS CHANNEL (US)::TENNIS CHANNEL::US
+thebaytheseries.com (US)::thebaytheseries.com::US
+this TV network (US)::this TV network::US
+Time Warner Cable News Austin (US)::Time Warner Cable News Austin::US
+Time Warner Cable News Buffalo (US)::Time Warner Cable News Buffalo::US
+Time Warner Cable News Capital Region (US)::Time Warner Cable News Capital Region::US
+Time Warner Cable News Central New York (US)::Time Warner Cable News Central New York::US
+Time Warner Cable News North Carolina (US)::Time Warner Cable News North Carolina::US
+Time Warner Cable News Rochester (US)::Time Warner Cable News Rochester::US
+TIME WARNER CABLE SPORTS CHANNEL (US)::TIME WARNER CABLE SPORTS CHANNEL::US
+TLC::TLC::US
+TNT::TNT DRAMA::US
+Total Living Network (US)::Total Living Network::US
+TPC (US)::TPC::US
+tr3s (US)::tr3s::US
+Travel Channel::travel CHANNEL::US
+Trinity Broadcasting Network (US)::Trinity Broadcasting Network::US
+truTV::truTV::US
+TRWAM (US)::TRWAM::US
+TUFF TV (US)::TUFF TV::US
+TURNER CLASSIC MOVIES (US)::TURNER CLASSIC MOVIES::US
+TV Asia (US)::TV Asia::US
+TV JAPAN (US)::TV JAPAN::US
+TV One::TV one::US
+TV Venezuela (US)::TV Venezuela::US
+TVB1 (US)::TVB1::US
+TVB2 (US)::TVB2::US
+tvb8 (US)::tvb8::US
+TVBe (US)::TVBe::US
+TVBS (US)::TVBS::US
+TVBV (US)::TVBV::US
+TVG Network::TVG Network::US
+TVGN::TVGN::US
+tvK (US)::tvK::US
+TV Land::TVland::US
+TVU music television (US)::TVU music television::US
+TWC Deportes (US)::TWC Deportes::US
+TWC SportsNet (US)::TWC SportsNet::US
+TXCN (US)::TXCN::US
+UBC TV NETWORK (US)::UBC TV NETWORK::US
+UFC FIGHT PASS (US)::UFC FIGHT PASS::US
+UND SPORTS NETWORK (US)::UND SPORTS NETWORK::US
+unIMÁS East (US)::unIMÁS East::US
+Universal Christian (US)::Universal Christian::US
+UNIVERSAL HD (US)::UNIVERSAL HD::US
+UNIVERSAL SPORTS NETWORK (US)::UNIVERSAL SPORTS NETWORK::US
+University of California Television (US)::University of California Television::US
+University of Washington Television (US)::University of Washington Television::US
+Univision::univision::US
+univision DEPORTES NETWORK (US)::univision DEPORTES NETWORK::US
+Unknown (US)::Unknown::US
+UNTAMED SPORTS tv (US)::UNTAMED SPORTS tv::US
+UNTV (US)::UNTV::US
+UP (US)::UP::US
+UPN::UPN::US
+USA Network::USA Network::US
+Velocity::VELOCITY::US
+VENEVISION INTERNATIONAL (US)::VENEVISION INTERNATIONAL::US
+VH1::VH1::US
+VH1 Classics::VH1 CLASSIC::US
+VH1 Soul (US)::VH1 Soul::US
+Victory Television Network (US)::Victory Television Network::US
+Viên Thao TV (US)::Viên Thao TV::US
+Vimeo::Vimeo.com::US
+Vision Heaven (US)::Vision Heaven::US
+Vme (US)::Vme::US
+VODO (US)::VODO::US
+WAPA-TV (US)::WAPA-TV::US
+watchmenmotioncomic.com (US)::watchmenmotioncomic.com::US
+The WB::WB::US
+WBZ-TV (US)::WBZ-TV::US
+WCCO Channel 4 (US)::WCCO Channel 4::US
+WCVB Channel 5 (US)::WCVB Channel 5::US
+WE tv::We tv::US
+The Weather Channel::Weather Channel::US
+WeatherNation (US)::WeatherNation::US
+weatherscan (US)::weatherscan::US
+WFRZ-LD (US)::WFRZ-LD::US
+WGN (US)::WGN::US
+WGN America::WGN america::US
+WORD Network (US)::WORD Network::US
+WORLD (US)::WORLD::US
+Worship (US)::Worship::US
+WWE Network (US)::WWE Network::US
+WWJ-TV Detroit (US)::WWJ-TV Detroit::US
+Xbox Video::XBOX LIVE::US
+XY TV::XY TV::US
+Yahoo! Screen::YAHOO! SCREEN::US
+YES (US)::YES::US
+youtoo SOCIAL TV (US)::youtoo SOCIAL TV::US
+YouTube::YouTube::US
+Z LIVING (US)::Z LIVING::US
+ZUUS Country (US)::ZUUS Country::US
+ZUUS Latino (US)::ZUUS Latino::US
+¡Sorpresa! (US)::¡Sorpresa!::US
+Televen::Televen::VE
+Internet::Internet::WD
+E.tv (ZA)::E.tv::ZA
+GO (ZA)::GO::ZA
+M-Net (ZA)::M-Net::ZA
+SABC 1 (ZA)::SABC 1::ZA
