@@ -284,7 +284,7 @@ ROGERS TV (CA)::ROGERS TV::CA
 Séries+::Série+::CA
 SHAW TV (CA)::SHAW TV::CA
 Shopping Channel (CA)::Shopping Channel::CA
-Showcase::SHOWCASE::CA
+Showcase (CA)::SHOWCASE::CA
 Slice::Slice::CA
 Space::SPACE::CA
 Sports Network (CA)::Sports Network::CA
@@ -1041,7 +1041,7 @@ Zing (UK)::Zing::UK
 7NBC (US)::7NBC::US
 A&E::A&E::US
 AANtv (US)::AANtv::US
-ABC::ABC::US
+ABC (US)::ABC::US
 ABC Family::ABC Family::US
 abc7 (US)::abc7::US
 ABC7 Chicago (US)::ABC7 Chicago::US
@@ -1235,7 +1235,7 @@ FLIX (US)::FLIX::US
 Flow TV (US)::Flow TV::US
 Food Network::food network::US
 FORO tv (US)::FORO tv::US
-FOX::FOX::US
+FOX (US)::FOX::US
 FOX 11 (US)::FOX 11::US
 FOX 31 DENVER (US)::FOX 31 DENVER::US
 FOX 32 (US)::FOX 32::US
@@ -1397,7 +1397,7 @@ MOVIES! (US)::MOVIES!::US
 MSG (US)::MSG::US
 MSG+ (US)::MSG+::US
 MSNBC::msnbc::US
-MTV::MTV::US
+MTV (US)::MTV::US
 MTV Hits::MTV Hits::US
 MTV Jams (US)::MTV Jams::US
 MTV2::MTV2::US
