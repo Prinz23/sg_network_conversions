@@ -1136,7 +1136,7 @@ CCTV-4 (US)::CCTV-4::US
 Centric (US)::Centric::US
 CGN TV (US)::CGN TV::US
 Channel 7 (US)::Channel 7::US
-chiller (US)::chiller::US
+Chiller::chiller::US
 Christian Television Network (US)::Christian Television Network::US
 Church Channel (US)::Church Channel::US
 Cinelatino (US)::Cinelatino::US
